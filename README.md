@@ -1,9 +1,6 @@
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanishq%20Mudaliar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+IoT+Enthusiast;SIH'25+Grand+Finalist;CiiA-3+National+Top+100+Innovator;Building+the+Future+with+Code+%26+Circuits" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+I'm+Tanishq+Mudaliar;Full-Stack+Developer+%7C+IoT+Enthusiast;SIH'25+Grand+Finalist;CiiA-3+National+Top+100+Innovator;Building+the+Future+with+Code+%26+Circuits" alt="Typing SVG" /></a>
 </p>
 
 <!-- Animated Coding GIF -->
@@ -18,7 +15,6 @@
   <a href="https://linkedin.com/in/tanishqmudaliar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/tanishqmudaliar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/tanishq_mudaliar"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://dev.to/tanishqmudaliar"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
   <a href="https://tanishqmudaliar.web.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
@@ -35,10 +31,10 @@
 ```javascript
 const tanishq = {
   education: "B.E. Computer Engineering @ SIES GST",
-  background: "Diploma in E&TC",
+  background: "Diploma in EXTC @ Vidyalankar Polytechnic",
   location: "Navi Mumbai, India",
 
-  currentFocus: ["IoT", "AI", "Cloud Computing"],
+  currentFocus: ["IoT", "AIML", "Cloud Computing"],
 
   askMeAbout: [
     "Web Development",
@@ -50,8 +46,6 @@ const tanishq = {
   funFact: "I bridge hardware & software!",
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -102,7 +96,7 @@ const tanishq = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="30"> Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -118,8 +112,6 @@ const tanishq = {
 ---
 
 ## Experience & Achievements
-
-<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 ### 💼 Experience
 
@@ -140,27 +132,17 @@ const tanishq = {
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishqmudaliar&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="600"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishqmudaliar&theme=radical&hide_border=true&border_radius=15&background=1a1b27&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd&sideLabels=38bdae&dates=bf91f3" width="600"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqmudaliar&layout=donut-vertical&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="600"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanishqmudaliar&theme=radical" width="600"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishqmudaliar&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="72.5%" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqmudaliar&layout=donut-vertical&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="23.5%" height="195"/>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tanishqmudaliar&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=16"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tanishqmudaliar&bg_color=ffffff&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=16"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishqmudaliar&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=16" width="96%"/>
+  </picture>
+</p>
 
 ---
 
@@ -184,13 +166,13 @@ const tanishq = {
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="96%">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="600"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="96%"/>
 </div>
 
 ---
@@ -198,7 +180,7 @@ const tanishq = {
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="96%"/>
 </div>
 
 <br>
