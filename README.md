@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=heading" alt="Heading" />
+
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+I'm+Tanishq+Mudaliar;Full-Stack+Developer+%7C+IoT+Enthusiast;SIH'25+Grand+Finalist;CiiA-3+National+Top+100+Innovator;Building+the+Future+with+Code+%26+Circuits" alt="Typing SVG" /></a>
@@ -133,8 +135,8 @@ const tanishq = {
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanishqmudaliar&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="72.5%" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqmudaliar&layout=donut-vertical&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="23.5%" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanishqmudaliar&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" width="72%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqmudaliar&layout=donut-vertical&theme=radical&hide_border=true&border_radius=15&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" width="24%"/>
 </p>
 <p align="center">
   <picture>
@@ -167,6 +169,8 @@ const tanishq = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+  <p><strong>⭐ If you find my work interesting, don't forget to star my repositories!</strong></p>
 </div>
 
 ---
@@ -180,4 +184,5 @@ const tanishq = {
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=30&section=footer"/></p>
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20&height=30&section=footer"/>
+</p>
