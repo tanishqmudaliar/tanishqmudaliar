@@ -1,8 +1,6 @@
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Tanishq+Mudaliar;AI+%2F+ML+Engineer;Full-Stack+Web+%26+Mobile+Architect;SIH'25+Grand+Finalist;CiiA-3+National+Top+100+Innovator;Syncing+Neural+Nets+with+Physical+Systems" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Hi+I'm+Tanishq+Mudaliar;AI+%2F+ML+Engineer;Full-Stack+Web+%26+Mobile+Architect;SIH'25+Grand+Finalist;CiiA-3+National+Top+100+Innovator;Syncing+Neural+Nets+with+Physical+Systems"/>
   <h3 align="center">🚀 Architecting scalable software with an intelligence-first mindset</h3>
 </p>
 
@@ -20,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanishqmudaliar&color=blueviolet&style=for-the-badge&base=683&abbreviated=true" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=tanishqmudaliar&color=blueviolet&style=for-the-badge&base=683&abbreviated=true"/>
 </p>
 
 ---
@@ -143,7 +141,7 @@ const tanishq = {
 <p>Modern fitness brand showcase with seamless video streaming, bold design, and smooth animations</p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Mux-FF0000?style=flat-square&logo=mux&logoColor=white" />
+<img src="https://img.shields.io/badge/Mux-FFB200?style=flat-square" />
 <br><br>
 <a href="https://github.com/tanishqmudaliar/Pure-Calisthenics">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
