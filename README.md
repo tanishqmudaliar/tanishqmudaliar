@@ -6,7 +6,7 @@
 
 <!-- Animated Coding GIF -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+  <img src="assets/start.gif" width="300">
 </p>
 
 <!-- Social Badges with Animation -->
@@ -66,11 +66,11 @@ const tanishq = {
 
 <!-- Animated Tech Icons -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://private-user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2ODI5NzcsIm5iZiI6MTc2NjY4MjY3NywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzctZGUwMzgxNzItZTkwMy00OTUxLTkyNmMtNzU1ODc4ZGViMGI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjI1VDE3MTExN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY3NGEzMjhhZDU4Mzk2MjEwNDA5NTI0YjNmMzNmZGI3NDQzZGM0NWNiZTc0ZjYwZDg2OWZkYzZmNGRmZWNkN2UmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.TkMq_hobxlI2_x7GpZ97Nr729lrc6puqlyoZVIcoqMw" width="100">
+  <img src="assets/javascript.gif" width="100">
+  <img src="assets/python.gif" width="100">
+  <img src="assets/github.gif" width="100">
+  <img src="assets/vscode.gif" width="100">
+  <img src="assets/jetbrains.gif" width="100">
 </p>
 
 ### Frontend Development
@@ -235,7 +235,7 @@ const tanishq = {
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+  <img src="assets/end.gif"/>
 </div>
 
 <br>
