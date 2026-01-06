@@ -198,6 +198,18 @@ const tanishq = {
 </a>
 </td>
 <td width="50%" valign="top">
+<h3>🚗 Trippr</h3>
+<p>Offline-first invoice & duty management system for transport businesses with PDF generation and analytics</p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
+<br><br>
+<a href="https://github.com/tanishqmudaliar/Trippr">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://tripprbytanishq.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </td>
 </tr>
 
