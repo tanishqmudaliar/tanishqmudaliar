@@ -120,7 +120,7 @@ const tanishq = {
 ### Cloud & Deployment
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Version Control
@@ -146,15 +146,47 @@ const tanishq = {
 <a href="https://github.com/tanishqmudaliar/Pure-Calisthenics">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="https://www.purecalisthenics.in/">
+  <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 </td>
 <td width="50%" valign="top">
-<h3>📱 Synergy Visitor Log</h3>
-<p>Real-time visitor management system with Firebase integration for instant data synchronization</p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<h3>🚗 Trippr</h3>
+<p>Offline-first invoice & duty management system for transport businesses with PDF generation and analytics</p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
 <br><br>
-<a href="https://github.com/tanishqmudaliar/Synergy-Visitor-Log">
+<a href="https://github.com/tanishqmudaliar/Trippr">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://tripprbytanishq.vercel.app">
+  <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+<h3>🌱 Plant Donation System</h3>
+<p>Secure donation platform featuring AES encryption and robust database management</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-4CAF50?style=flat-square&logo=security&logoColor=white" />
+<br><br>
+<a href="https://github.com/tanishqmudaliar/Plant-Donation-System">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td width="50%" valign="top">
+<h3>🚦 Traffic Light Controller</h3>
+<p>8051 microcontroller-based intelligent traffic management system with pedestrian controls</p>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Embedded-E34F26?style=flat-square&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/8051-FF6F00?style=flat-square&logoColor=white" />
+<br><br>
+<a href="https://github.com/tanishqmudaliar/Traffic-Light-Controller">
+
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
@@ -172,43 +204,14 @@ const tanishq = {
 </a>
 </td>
 <td width="50%" valign="top">
-<h3>🌱 Plant Donation System</h3>
-<p>Secure donation platform featuring AES encryption and robust database management</p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-4CAF50?style=flat-square&logo=security&logoColor=white" />
+<h3>📱 Synergy Visitor Log</h3>
+<p>Real-time visitor management system with Firebase integration for instant data synchronization</p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 <br><br>
-<a href="https://github.com/tanishqmudaliar/Plant-Donation-System">
+<a href="https://github.com/tanishqmudaliar/Synergy-Visitor-Log">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-<h3>🚦 Traffic Light Controller</h3>
-<p>8051 microcontroller-based intelligent traffic management system with pedestrian controls</p>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Embedded-E34F26?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/8051-FF6F00?style=flat-square&logoColor=white" />
-<br><br>
-<a href="https://github.com/tanishqmudaliar/Traffic-Light-Controller">
-
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-<td width="50%" valign="top">
-<h3>🚗 Trippr</h3>
-<p>Offline-first invoice & duty management system for transport businesses with PDF generation and analytics</p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
-<br><br>
-<a href="https://github.com/tanishqmudaliar/Trippr">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://tripprbytanishq.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </td>
 </tr>
