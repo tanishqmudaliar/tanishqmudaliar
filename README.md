@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/tanishqmudaliar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/></a>
   <a href="https://twitter.com/tanishqmudaliar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="https://instagram.com/tanishq_mudaliar"><img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/notthetanishqyouknow/"><img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://tanishqmudaliar.web.app"><img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
@@ -76,16 +76,26 @@ const tanishq = {
 ### Frontend Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### Animation Libraries
+
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![AOS](https://img.shields.io/badge/AOS-FF6B6B?style=for-the-badge)
 
 ### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -103,6 +113,11 @@ const tanishq = {
 ### Mobile Development
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
+
+### State Management
+
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 
 ### ML & Neural Systems
 
@@ -111,17 +126,33 @@ const tanishq = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### Data Visualization
+
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
+
 ### IoT & Hardware
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![8051](https://img.shields.io/badge/8051_MCU-FF6F00?style=for-the-badge)
 
 ### Cloud & Deployment
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Video & Media
+
+![Mux](https://img.shields.io/badge/Mux-FF2D55?style=for-the-badge)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
+
+### CI/CD & Automation
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Version Control
 
@@ -138,79 +169,91 @@ const tanishq = {
 <tr>
 <td width="50%" valign="top">
 <h3>🏋️ Pure Calisthenics</h3>
-<p>Modern fitness brand showcase with seamless video streaming, bold design, and smooth animations</p>
+<p>Production-grade fitness brand website with seamless Mux video streaming, stunning GSAP & Framer Motion animations, and bold modern design</p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
 <img src="https://img.shields.io/badge/Mux-FFB200?style=flat-square" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
 <br><br>
 <a href="https://github.com/tanishqmudaliar/Pure-Calisthenics">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.purecalisthenics.in/">
-  <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://purecalisthenics.in">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </td>
 <td width="50%" valign="top">
 <h3>🚗 Trippr</h3>
-<p>Offline-first invoice & duty management system for transport businesses with PDF generation and analytics</p>
+<p>Enterprise-grade offline-first invoice & duty management system with PDF generation, Excel import, and comprehensive analytics dashboard</p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
+<img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square" />
 <br><br>
 <a href="https://github.com/tanishqmudaliar/Trippr">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://tripprbytanishq.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
-<h3>🌱 Plant Donation System</h3>
-<p>Secure donation platform featuring AES encryption and robust database management</p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Security-4CAF50?style=flat-square&logo=security&logoColor=white" />
+<h3>🌤️ Weather Monitoring System</h3>
+<p>Real-time weather analytics platform with interactive data visualization, forecast trends, and comprehensive reporting using OpenWeather API</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenWeather_API-E96E50?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Viz-FF6F00?style=flat-square" />
 <br><br>
-<a href="https://github.com/tanishqmudaliar/Plant-Donation-System">
+<a href="https://github.com/tanishqmudaliar/Weather-Monitoring-System">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-</td>
-<td width="50%" valign="top">
-<h3>🚦 Traffic Light Controller</h3>
-<p>8051 microcontroller-based intelligent traffic management system with pedestrian controls</p>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Embedded-E34F26?style=flat-square&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/8051-FF6F00?style=flat-square&logoColor=white" />
-<br><br>
-<a href="https://github.com/tanishqmudaliar/Traffic-Light-Controller">
-
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://tanishqmudaliar.pythonanywhere.com/">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=pythonanywhere&logoColor=white" />
 </a>
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 <h3>📊 Gram Analyzer</h3>
-<p>Instagram analytics and insights tool with data visualization for deep social media analysis</p>
+<p>Full-stack Instagram analytics tool with deep social media insights, data visualization, and comprehensive metrics tracking</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Analysis-FF6F00?style=flat-square&logo=analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analysis-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/API_Integration-009688?style=flat-square" />
 <br><br>
 <a href="https://github.com/tanishqmudaliar/Gram-Analyzer">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
-<h3>📱 Synergy Visitor Log</h3>
-<p>Real-time visitor management system with Firebase integration for instant data synchronization</p>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<h3>🚦 Traffic Light Controller</h3>
+<p>IoT-based intelligent traffic management system using 8051 microcontroller with LDR-based adaptive streetlight control and pedestrian safety features</p>
+<img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/8051_MCU-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Keil_uVision-005A9C?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" />
 <br><br>
-<a href="https://github.com/tanishqmudaliar/Synergy-Visitor-Log">
+<a href="https://github.com/tanishqmudaliar/Traffic-Light-Controller">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://trafficlightcontroller.notion.site/Traffic-Light-Control-System-59ea93ed38074eccbed497e680d870e7">
+  <img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+</td>
+<td width="50%" valign="top">
+<h3>🌱 Plant Donation System</h3>
+<p>Secure Java desktop application with AES-256 encryption, session management, admin dashboard, and MySQL database integration</p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/AES_Encryption-4CAF50?style=flat-square&logo=letsencrypt&logoColor=white" />
+<img src="https://img.shields.io/badge/Swing_UI-007396?style=flat-square" />
+<br><br>
+<a href="https://github.com/tanishqmudaliar/Plant-Donation-System">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </td>
@@ -228,7 +271,7 @@ const tanishq = {
   <a href="https://linkedin.com/in/tanishqmudaliar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"/>
   </a>
-  <a href="mailto:tanishqmudaliar1123@gmail.com">
+  <a href="mailto:tanishqmudaliar1123gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/tanishqmudaliar">
