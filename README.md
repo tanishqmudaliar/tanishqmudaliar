@@ -56,7 +56,7 @@ const tanishq = {
   achievements: ["SIH '25 Grand Finalist", "CiiA-3 National Top 100 Innovator"],
 
   philosophy:
-    "Synthesizing software intelligence with architectural precision.",
+    "The impediment to action advances action. What stands in the way becomes the way." — Marcus Aurelius
 };
 ```
 
