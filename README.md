@@ -168,20 +168,34 @@ const tanishq = {
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🏋️ Pure Calisthenics</h3>
-<p>Production-grade fitness brand website with seamless Mux video streaming, stunning GSAP & Framer Motion animations, and bold modern design</p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-<img src="https://img.shields.io/badge/Mux-FFB200?style=flat-square" />
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<h3>🛡️ SilverGuard</h3>
+<p>On-device AI SMS scam detection app protecting senior citizens — powered by a fine-tuned MobileBERT ONNX model, custom Dart WordPiece tokenizer, and a LIFO background inference engine. Zero cloud calls, complete privacy</p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/ONNX_Runtime-7B68EE?style=flat-square&logo=onnx&logoColor=white" />
+<img src="https://img.shields.io/badge/MobileBERT-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
 <br><br>
-<a href="https://github.com/tanishqmudaliar/Pure-Calisthenics">
+<a href="https://github.com/tanishqmudaliar/SilverGuard">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://purecalisthenics.in">
-  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://huggingface.co/tanishqmudaliar/SilverGuard">
+  <img src="https://img.shields.io/badge/Model_on_HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </a>
 </td>
+<td width="50%" valign="top">
+<h3>🔄 PythonAnywhere Auto-Renew</h3>
+<p>Automated CI/CD bot that prevents free-tier PythonAnywhere apps from expiring — uses GitHub Actions, encrypted secrets, and a Python/BeautifulSoup scraper on a bi-monthly schedule with full audit logging</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-Automated-brightgreen?style=flat-square" />
+<br><br>
+<a href="https://github.com/tanishqmudaliar/PythonAnywhere-Auto-Renew">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 <h3>🚗 Trippr</h3>
 <p>Enterprise-grade offline-first invoice & duty management system with PDF generation, Excel import, and comprehensive analytics dashboard</p>
@@ -197,31 +211,13 @@ const tanishq = {
   <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-<h3>🌤️ Weather Monitoring System</h3>
-<p>Real-time weather analytics platform with interactive data visualization, forecast trends, and comprehensive reporting using OpenWeather API</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/OpenWeather_API-E96E50?style=flat-square" />
-<img src="https://img.shields.io/badge/Data_Viz-FF6F00?style=flat-square" />
-<br><br>
-<a href="https://github.com/tanishqmudaliar/Weather-Monitoring-System">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://tanishqmudaliar.pythonanywhere.com/">
-  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=pythonanywhere&logoColor=white" />
-</a>
-</td>
 <td width="50%" valign="top">
 <h3>📊 Gram Analyzer</h3>
-<p>Full-stack Instagram analytics tool with deep social media insights, data visualization, and comprehensive metrics tracking</p>
+<p>Full-stack Instagram analytics tool with deep social media insights, trend detection, data visualization, and comprehensive metrics tracking</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Data_Analysis-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/API_Integration-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/API_Integration-009688?style=flat-square&logo=fastapi&logoColor=white" />
 <br><br>
 <a href="https://github.com/tanishqmudaliar/Gram-Analyzer">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -230,6 +226,21 @@ const tanishq = {
 </tr>
 
 <tr>
+<td width="50%" valign="top">
+<h3>🏋️ Pure Calisthenics</h3>
+<p>Production-grade fitness brand website with seamless Mux video streaming, stunning GSAP & Framer Motion animations, and bold modern design</p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+<img src="https://img.shields.io/badge/Mux-FFB200?style=flat-square" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+<br><br>
+<a href="https://github.com/tanishqmudaliar/Pure-Calisthenics">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://purecalisthenics.in">
+  <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</td>
 <td width="50%" valign="top">
 <h3>🚦 Traffic Light Controller</h3>
 <p>IoT-based intelligent traffic management system using 8051 microcontroller with LDR-based adaptive streetlight control and pedestrian safety features</p>
@@ -245,22 +256,20 @@ const tanishq = {
   <img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 </td>
-<td width="50%" valign="top">
-<h3>🌱 Plant Donation System</h3>
-<p>Secure Java desktop application with AES-256 encryption, session management, admin dashboard, and MySQL database integration</p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/AES_Encryption-4CAF50?style=flat-square&logo=letsencrypt&logoColor=white" />
-<img src="https://img.shields.io/badge/Swing_UI-007396?style=flat-square" />
-<br><br>
-<a href="https://github.com/tanishqmudaliar/Plant-Donation-System">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
 </tr>
 
 </table>
 
+</div>
+
+---
+
+## ⚡ DSA & Competitive Programming
+
+<div align="center">
+  <a href="https://leetcode.com/tanishqmudaliar">
+    <img src="https://leetcard.jacoblin.cool/tanishqmudaliar?theme=dark&font=Noto%20Sans" height="185" alt="LeetCode Stats" />
+  </a>
 </div>
 
 ---
