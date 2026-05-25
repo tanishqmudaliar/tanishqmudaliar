@@ -273,7 +273,7 @@ const tanishq = {
 
 <div align="center">
 
-<strong>Open to Software Engineering opportunities, especially those involving machine learning. Feel free to reach out at tanishqmudaliar1123@gmail.com.</strong>
+<strong>Open to Software Engineering opportunities, especially those involving machine learning. Feel free to reach out at tanishqmudaliar846@gmail.com.</strong>
 
 <strong>⭐ If you find my work interesting, don't forget to star my repositories!</strong>
 
