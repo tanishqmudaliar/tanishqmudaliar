@@ -258,7 +258,7 @@ const tanishq = {
 <a href="https://github.com/tanishqmudaliar/Traffic-Light-Controller">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://trafficlightcontroller.notion.site/Traffic-Light-Control-System-59ea93ed38074eccbed497e680d870e7">
+<a href="https://tanishqmudaliar.notion.site/traffic-light-control-system">
   <img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </a>
 </td>
