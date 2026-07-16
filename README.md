@@ -154,7 +154,7 @@ const tanishq = {
 <td width="50%" valign="top">
 <h3>
   🤖 AdbZen
-  <img src="https://img.shields.io/badge/v0.0.2_•_Live-2ea44f?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/v1.0.0_•_Live-2ea44f?style=flat-square" align="right" height="20" />
 </h3>
 <p>VS Code extension that brings the full ADB workflow into your editor — wireless pairing via QR code with mDNS auto-connect, real-time device tracking, one-click shell terminals, and automatic ADB installation. CS50x final project.</p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -172,7 +172,7 @@ const tanishq = {
 <td width="50%" valign="top">
 <h3>
   🛡️ SilverGuard
-  <img src="https://img.shields.io/badge/v1_Complete_•_Iterating-2ea44f?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/v1.0.0_•_Live-2ea44f?style=flat-square" align="right" height="20" />
 </h3>
 <p>On-device AI SMS scam detection app protecting senior citizens, powered by a fine-tuned MobileBERT ONNX model, custom Dart WordPiece tokenizer, and a LIFO background inference engine. Zero cloud calls, complete privacy</p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
@@ -185,6 +185,77 @@ const tanishq = {
 </a>
 <a href="https://huggingface.co/tanishqmudaliar/SilverGuard">
   <img src="https://img.shields.io/badge/Model_on_HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+</td>
+</tr>
+
+<!-- <tr>
+<td width="50%" valign="top">
+<h3>
+  📊 Gram Analyzer
+  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
+</h3>
+<p>Full-stack Instagram analytics tool with deep social media insights, trend detection, data visualization, and comprehensive metrics tracking</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Analysis-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/API_Integration-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<br><br>
+<a href="https://github.com/tanishqmudaliar/Gram-Analyzer">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td width="50%" valign="top">
+<h3>
+  🚦 Traffic Light Controller
+  <img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" align="right" height="20" />
+</h3>
+<p>IoT-based intelligent traffic management system using 8051 microcontroller with LDR-based adaptive streetlight control and pedestrian safety features</p>
+<img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/8051_MCU-FF6F00?style=flat-square" />
+<img src="https://img.shields.io/badge/Keil_uVision-005A9C?style=flat-square" />
+<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" />
+<br><br>
+<a href="https://github.com/tanishqmudaliar/Traffic-Light-Controller">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://tanishqmudaliar.notion.site/traffic-light-control-system">
+  <img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</a>
+</td>
+</tr> -->
+
+<tr>
+<td width="50%" valign="top">
+<h3>
+  🔄 PythonAnywhere Auto-Renew
+  <img src="https://img.shields.io/badge/v1.3.0_•_Live-2ea44f?style=flat-square" align="right" height="20" />
+</h3>
+<p>Automated CI/CD bot that prevents free-tier PythonAnywhere apps from expiring — uses GitHub Actions, encrypted secrets, and a Python/BeautifulSoup scraper on a bi-monthly schedule with full audit logging</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-Automated-brightgreen?style=flat-square" />
+<br><br>
+<a href="https://github.com/tanishqmudaliar/PythonAnywhere-Auto-Renew">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+<td width="50%" valign="top">
+<h3>
+  🌦️ Weather Monitoring System
+  <img src="https://img.shields.io/badge/v1.6.0_•_Live-2ea44f?style=flat-square" align="right" height="20" />
+</h3>
+<p>Full-stack weather app with real-time data, 5-day forecasts, AQI tracking, and weather alerts. Features zero-maintenance hosting — auto-deploys on every push via GitHub Actions and stays alive indefinitely on free tier via a renewal bot.</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+<br><br>
+<a href="https://github.com/tanishqmudaliar/Weather-Monitoring-System">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://tanishqmudaliar.pythonanywhere.com">
+  <img src="https://img.shields.io/badge/Live_Demo-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white" />
 </a>
 </td>
 </tr>
@@ -224,77 +295,6 @@ const tanishq = {
 </a>
 <a href="https://purecalisthenics.in">
   <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-<h3>
-  📊 Gram Analyzer
-  <img src="https://img.shields.io/badge/In_Progress-e05e00?style=flat-square" align="right" height="20" />
-</h3>
-<p>Full-stack Instagram analytics tool with deep social media insights, trend detection, data visualization, and comprehensive metrics tracking</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Data_Analysis-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/API_Integration-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<br><br>
-<a href="https://github.com/tanishqmudaliar/Gram-Analyzer">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-<td width="50%" valign="top">
-<h3>
-  🚦 Traffic Light Controller
-  <img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" align="right" height="20" />
-</h3>
-<p>IoT-based intelligent traffic management system using 8051 microcontroller with LDR-based adaptive streetlight control and pedestrian safety features</p>
-<img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/8051_MCU-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/Keil_uVision-005A9C?style=flat-square" />
-<img src="https://img.shields.io/badge/IoT-00979D?style=flat-square" />
-<br><br>
-<a href="https://github.com/tanishqmudaliar/Traffic-Light-Controller">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://tanishqmudaliar.notion.site/traffic-light-control-system">
-  <img src="https://img.shields.io/badge/Documentation-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-<h3>
-  🔄 PythonAnywhere Auto-Renew
-  <img src="https://img.shields.io/badge/Completed-2ea44f?style=flat-square" align="right" height="20" />
-</h3>
-<p>Automated CI/CD bot that prevents free-tier PythonAnywhere apps from expiring — uses GitHub Actions, encrypted secrets, and a Python/BeautifulSoup scraper on a bi-monthly schedule with full audit logging</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-Automated-brightgreen?style=flat-square" />
-<br><br>
-<a href="https://github.com/tanishqmudaliar/PythonAnywhere-Auto-Renew">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</td>
-<td width="50%" valign="top">
-<h3>
-  🌦️ Weather Monitoring System
-  <img src="https://img.shields.io/badge/Live-2ea44f?style=flat-square" align="right" height="20" />
-</h3>
-<p>Full-stack weather app with real-time data, 5-day forecasts, AQI tracking, and weather alerts. Features zero-maintenance hosting — auto-deploys on every push via GitHub Actions and stays alive indefinitely on free tier via a renewal bot.</p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<br><br>
-<a href="https://github.com/tanishqmudaliar/Weather-Monitoring-System">
-  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://tanishqmudaliar.pythonanywhere.com">
-  <img src="https://img.shields.io/badge/Live_Demo-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white" />
 </a>
 </td>
 </tr>
