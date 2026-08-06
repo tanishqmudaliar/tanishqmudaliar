@@ -243,7 +243,7 @@ const tanishq = {
 <td width="50%" valign="top">
 <h3>
   🌦️ Weather Monitoring System
-  <img src="https://img.shields.io/badge/v1.6.0_•_Live-2ea44f?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/v1.7.0_•_Live-2ea44f?style=flat-square" align="right" height="20" />
 </h3>
 <p>Full-stack weather app with real-time data, 5-day forecasts, AQI tracking, and weather alerts. Features zero-maintenance hosting — auto-deploys on every push via GitHub Actions and stays alive indefinitely on free tier via a renewal bot.</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
