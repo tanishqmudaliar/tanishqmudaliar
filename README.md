@@ -24,14 +24,30 @@ const tanishq = {
   location: "Navi Mumbai, India",
 
   education: {
-    degree: "B.E. Computer Engineering @ SIES GST",
-    foundation: "Diploma in EXTC @ Vidyalankar Polytechnic",
+    degree: "B.E. in Computer Engineering @ SIES GST",
+    foundation:
+      "Diploma in Electronics and Telecommunication @ Vidyalankar Polytechnic",
   },
+
+  experience: [
+    {
+      role: "Mobile Application Developer Intern",
+      company: "Senergy Intellution Pvt. Ltd.",
+      period: "Jun. 2023 – Jul. 2023",
+      focus: ["Flutter", "SQLite", "Firebase", "Workmanager"],
+    },
+    {
+      role: "Freelance Web Developer",
+      project: "Pure Calisthenics",
+      period: "Jan. 2025 – Mar. 2025",
+      focus: ["Next.js", "React", "Tailwind CSS", "GSAP"],
+    },
+  ],
 
   leadership_history: {
     technical: {
-      role: "Department Head",
-      org: "Techshala Committee (2023-24)",
+      role: "Technical Head",
+      org: "Techshala Committee @ VPT (2023-24)",
       impact: "Organized technical workshops and mentored junior developers",
     },
     creative: {
@@ -52,32 +68,23 @@ const tanishq = {
 
 ## Tech Stack
 
-### Programming Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Frontend Development
+### Frontend & Mobile
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-### Mobile Development
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-
-### State Management
-
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
 
 ### Backend & Databases
@@ -92,7 +99,7 @@ const tanishq = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### ML & Neural Systems
+### ML & Data
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -106,42 +113,15 @@ const tanishq = {
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![8051](https://img.shields.io/badge/8051_MCU-FF6F00?style=for-the-badge)
 
-### Cloud & Deployment
+### Cloud, DevOps & Tooling
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=pythonanywhere&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### CI/CD & Automation
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![esbuild](https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black)
-
-### Editor Tooling
-
-![VS Code Extension API](https://img.shields.io/badge/VS_Code_Extension_API-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### Version Control
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### Animation Libraries
-
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![AOS](https://img.shields.io/badge/AOS-FF6B6B?style=for-the-badge)
-
-### Data Visualization
-
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge)
-
-### Video & Media
-
-![Mux](https://img.shields.io/badge/Mux-FF2D55?style=for-the-badge)
-![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
 
 ---
 
