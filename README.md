@@ -209,7 +209,7 @@ const tanishq = {
 <td width="50%" valign="top">
 <h3>
   🔄 PythonAnywhere Auto-Renew
-  <img src="https://img.shields.io/badge/v1.3.0_•_Live-2ea44f?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/v1.4.0_•_Live-2ea44f?style=flat-square" align="right" height="20" />
 </h3>
 <p>Automated CI/CD bot that prevents free-tier PythonAnywhere apps from expiring — uses GitHub Actions, encrypted secrets, and a Python/BeautifulSoup scraper on a bi-monthly schedule with full audit logging</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
