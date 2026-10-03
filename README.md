@@ -134,7 +134,7 @@ const tanishq = {
 <td width="50%" valign="top">
 <h3>
   🤖 AdbZen
-  <img src="https://img.shields.io/badge/v1.0.0_•_Live-2ea44f?style=flat-square" align="right" height="20" />
+  <img src="https://img.shields.io/badge/v1.1.1_•_Live-2ea44f?style=flat-square" align="right" height="20" />
 </h3>
 <p>VS Code extension that brings the full ADB workflow into your editor — wireless pairing via QR code with mDNS auto-connect, real-time device tracking, one-click shell terminals, and automatic ADB installation. CS50x final project.</p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
